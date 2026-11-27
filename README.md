@@ -1,4 +1,4 @@
-# Bike Sharing Analytics Dashboard 🚲✨
+# Bike Sharing Analytics Dashboard 🚲
 
 Proyek akhir analisis data menggunakan **Bike Sharing Dataset** (2011–2012) untuk mengeksplorasi dampak kondisi cuaca, pergantian musim, pola jam sibuk operasional (*Working Day* vs *Holiday/Weekend*), serta pengelompokan klaster waktu dan suhu (*Manual Grouping & Binning*).
 
